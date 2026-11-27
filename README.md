@@ -1,5 +1,4 @@
 
-
 #Hola, soy Angel Alvarado Gonzalez 👋
 
 > **Ingeniero en Gestion y Desarrollo de Software | Bases de Datos (SQL & NoSQL) | Residente de Obra (AutoDesk)**  

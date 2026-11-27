@@ -1,5 +1,4 @@
-
-#Hola, soy Angel Alvarado Gonzalez 👋
+Hola, soy Angel Alvarado Gonzalez 👋
 
 > **Ingeniero en Gestion y Desarrollo de Software | Bases de Datos (SQL & NoSQL) | Residente de Obra (AutoDesk)**  
 > Construyendo aplicaciones web, APIs y soluciones digitales a la medida de **PyMEs en Puebla**, combinando solidez técnica con visión operativa.
